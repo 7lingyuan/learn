@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+// 这是一段注释
 int main()
 {
 	srand(time(NULL));
