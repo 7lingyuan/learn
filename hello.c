@@ -12,5 +12,6 @@ int main()
 		int random = rand();
 		printf("[%d] random date: %d\n", i, random);
 	}
+	printf("end\n");
 	return 0;
 }
